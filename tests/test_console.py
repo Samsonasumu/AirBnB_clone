@@ -8,7 +8,7 @@ Unittest classes:
     TestHBNBCommand_show
     TestHBNBCommand_all
     TestHBNBCommand_destroy
-    TestHBNBCommand_update
+  TestHBNBCommand_update
 """
 import os
 import sys
